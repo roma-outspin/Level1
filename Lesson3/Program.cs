@@ -223,11 +223,9 @@ namespace Lesson3
             {
                 Console.Write(testedArray[i]);
             }
-            Console.WriteLine();
+            Console.WriteLine(); //вывод массива
 
             #endregion
-
-
         }
     }
 }
