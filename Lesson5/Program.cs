@@ -24,6 +24,8 @@ namespace Lesson5
             }
             File.WriteAllBytes("Задание3.bin", userBytes);
 
+
+            
             Console.WriteLine("Задание 4. Ниже будут представлена информация о рабочих старше 40 лет:");
             Person[] workers = new Person[]
             {
